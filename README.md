@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-![Uploading HomePage.png…]()
+![HomePage](https://user-images.githubusercontent.com/85164320/120314478-b76b3f80-c2f4-11eb-8b80-ab5aac4ead2c.png)
+
 
 
 ### Markdown
